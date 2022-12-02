@@ -13,6 +13,4 @@ Lebih detail nya, fitur yang harus dikerjakan adalah:
 Untuk menjalankan aplikasi lakukan perintah berikut
 1. `cp .env.example .env` dan isi sesuai dengan environtment yang ada di PC kalian
 2. `go mod tidy && go mod vendor`
-3. `go run main.go`
-
-Daftar endpoint ada di postman documenter yang di sertakan
+3. `go run *.go`
